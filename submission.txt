@@ -1,4 +1,4 @@
-Team number: [enter team number]
+Team number: 4
 Name(s): Indrek Nemvalts, Joosep-Gre Kallaste
 Repository link: https://github.com/joosepkallaste/WADhw1.git
 Deployed project link: https://joosepkallaste.github.io/WADhw1/index.html
