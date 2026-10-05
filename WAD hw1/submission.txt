@@ -1,0 +1,4 @@
+Team number: [enter team number]
+Name(s): [enter team member names]
+Repository link: [paste GitHub repository link]
+Deployed project link: [paste GitHub Pages link]
