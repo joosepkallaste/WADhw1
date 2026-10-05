@@ -2,5 +2,4 @@
 Homework 1
 
 Team members:
-Joosep-Gre Kallaste
-Indrek Nemvalts
+Joosep-Gre Kallaste and Indrek Nemvalts
